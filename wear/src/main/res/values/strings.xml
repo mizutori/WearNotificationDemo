@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">WearNotificationDemo</string>
+    <string name="hello_world">Hello World!</string>
+
+    <string name="Oxygen_Low">Oxygen Low</string>
+
+    <string name="Oxygen_OK">Oxygen OK</string>
+
+    <string name="oxygen_is_x">Oxygen is %d%%</string>
+
+    <string name="Reminder">Reminder</string>
+
+
+
+</resources>
